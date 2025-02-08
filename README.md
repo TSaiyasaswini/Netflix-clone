@@ -6,8 +6,8 @@ Features
 
 1. Responsive design compatible with all devices
 2. Home page with movie banners and categories
-3. Movie trailers using YouTube API (if implemented)
-4. User authentication (optional feature)
+3. Movie trailers using YouTube API 
+4. User authentication 
 5. Dark mode similar to Netflix
 
 Technologies Used
@@ -16,7 +16,7 @@ Technologies Used
 2. Vite
 3. CSS (Flexbox, Grid, Animations)
 4. JavaScript (ES6+)
-5. TMDB API (for fetching movies, if implemented)
+5. TMDB API
 
 Installation
 
